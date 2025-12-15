@@ -244,7 +244,7 @@ graph TB
         D2["🐙 GitHub: Upload All Code"]
         D3["📄 Datasheets: Read Before Coding"]
         D4["📸 Document: Photos of Each Build"]
-        D5["🎥 YouTube Devlog (Optional)"]
+        D5["🎥 YouTube Devlog (Optional), maker.io, hackaday, instructables, ark"]
         D1 --> D2 --> D3 --> D4 --> D5
     end
 
